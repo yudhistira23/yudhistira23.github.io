@@ -93,38 +93,6 @@ section {
   /* border: 2px solid red; */
   background-size: cover;
   background-position: center;
-=======
- .home {
-    display: flex;
-    align-items: center;
-    padding: 0 9%;
-    background: url('../images/home-bg-sm.png') no-repeat;
-    /* border: 2px solid red; */
-    background-size: cover;
-    background-position: center;
- }
-
- .home-content {
-    max-width: 60rem;
-    z-index: 99;
- }
-
- .home-content h1 {
-    position: relative;
-    display: inline-block;
-    font-size: 5.6rem;
-    font-weight: 700;
-    line-height: 1.3;
- }
-
- .home-content h1 span {
-    color: var(--text-color);
- }
-
- .home-content .text-animate {
-     position: relative;
-     width: 32.8rem;
->>>>>>> origin/main
 }
 
 .home-content {
