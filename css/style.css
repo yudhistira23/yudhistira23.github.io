@@ -83,8 +83,6 @@ section {
 }
 
 /* home */
-
-<<<<<<< HEAD
 .home {
   display: flex;
   align-items: center;
@@ -978,13 +976,7 @@ section:nth-child(odd) .animate.scroll,
 }
 
 @keyframes showRight {
-<<<<<<< HEAD
   100% {
     width: 0;
   }
-=======
-    100% {
-        width: 0 ;
-    }
->>>>>>> origin/main
 }
